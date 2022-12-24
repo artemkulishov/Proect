@@ -1,0 +1,22 @@
+E:\УП Вакуленко\УП Программирование\Encoder\Encoder\bin\Debug\Encoder.exe.config
+E:\УП Вакуленко\УП Программирование\Encoder\Encoder\bin\Debug\Encoder.exe
+E:\УП Вакуленко\УП Программирование\Encoder\Encoder\bin\Debug\Encoder.pdb
+E:\УП Вакуленко\УП Программирование\Encoder\Encoder\obj\Debug\Encoder.csproj.AssemblyReference.cache
+E:\УП Вакуленко\УП Программирование\Encoder\Encoder\obj\Debug\Encoder.csproj.SuggestedBindingRedirects.cache
+E:\УП Вакуленко\УП Программирование\Encoder\Encoder\obj\Debug\Encoder.Form1.resources
+E:\УП Вакуленко\УП Программирование\Encoder\Encoder\obj\Debug\Encoder.Properties.Resources.resources
+E:\УП Вакуленко\УП Программирование\Encoder\Encoder\obj\Debug\Encoder.csproj.GenerateResource.cache
+E:\УП Вакуленко\УП Программирование\Encoder\Encoder\obj\Debug\Encoder.csproj.CoreCompileInputs.cache
+E:\УП Вакуленко\УП Программирование\Encoder\Encoder\obj\Debug\Encoder.exe
+E:\УП Вакуленко\УП Программирование\Encoder\Encoder\obj\Debug\Encoder.pdb
+D:\ProgramVS\Encoder\Encoder\bin\Debug\Encoder.exe.config
+D:\ProgramVS\Encoder\Encoder\bin\Debug\Encoder.exe
+D:\ProgramVS\Encoder\Encoder\bin\Debug\Encoder.pdb
+D:\ProgramVS\Encoder\Encoder\obj\Debug\Encoder.csproj.AssemblyReference.cache
+D:\ProgramVS\Encoder\Encoder\obj\Debug\Encoder.csproj.SuggestedBindingRedirects.cache
+D:\ProgramVS\Encoder\Encoder\obj\Debug\Encoder.Form1.resources
+D:\ProgramVS\Encoder\Encoder\obj\Debug\Encoder.Properties.Resources.resources
+D:\ProgramVS\Encoder\Encoder\obj\Debug\Encoder.csproj.GenerateResource.cache
+D:\ProgramVS\Encoder\Encoder\obj\Debug\Encoder.csproj.CoreCompileInputs.cache
+D:\ProgramVS\Encoder\Encoder\obj\Debug\Encoder.exe
+D:\ProgramVS\Encoder\Encoder\obj\Debug\Encoder.pdb
